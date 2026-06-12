@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Angel</h1>
 <h3 align="center">A Senior Frontend Engineer based in Berlin</h3>
 
-- 👨🏽‍💻 I’m currently learning **System design and AI orchestration**
+- 👨🏽‍💻 I’m currently deep diving into **System design and AI orchestration**
 
 - 📫 How to reach me **angelsol299@gmail.com**
 
